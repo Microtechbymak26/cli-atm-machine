@@ -1,6 +1,6 @@
 {
-  "name": "a2c6-atm-machine",
-  "version": "1.0.1",
+  "name": "@a2c6-atm-machine",
+  "version": "2.0.1",
   "description": "",
   "main": "index.js",
   "type": "module",
