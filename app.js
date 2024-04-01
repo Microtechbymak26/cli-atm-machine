@@ -16,7 +16,7 @@ if (pinAnswer.pin === myPin) {
             name: "operation",
             message: "please selecr option",
             type: "list",
-            choices: ["withdraw", "check balance", "fast cash "]
+            choices: ["withdraw", "check balance",]
         }
     ]);
     console.log(operationAns);
