@@ -1,6 +1,6 @@
 {
-  "name": "atbb2c6-atm-machine",
-  "version": "3.0.2",
+  "name": "pabb2c6-atm-machine",
+  "version": "3.0.3",
   "description": "",
   "main": "app.js",
   "type": "module",
